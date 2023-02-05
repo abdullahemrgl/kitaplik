@@ -1,4 +1,4 @@
-[Python ORM: Peewee]() teknik makalemde kullandığım **kitaplık veri tabanı** uygulamasının kaynak kodları.
+[Python ORM: Peewee](https://dev.to/abdullahemrgl/python-orm-peewee-4in6) teknik makalemde kullandığım **kitaplık veri tabanı** uygulamasının kaynak kodları.
 
 # Komutlar:
 
